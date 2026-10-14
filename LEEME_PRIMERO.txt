@@ -1,0 +1,18 @@
+INVITACION DE ADRIEL - 3 ANOS - SOLUCION PARA LA MUSICA
+
+PARA ABRIRLA:
+1. Abre el ZIP y busca index.html que esta en la RAIZ (NO el de Codigo_editable).
+2. Haz doble clic en index.html. Este contiene los estilos, las imagenes y TODA la cancion dentro del propio HTML.
+3. En la bienvenida pulsa "ABRIR INVITACION". Esto inicia la musica y muestra la invitacion.
+4. El boton de musica de abajo a la derecha permite pausar o reanudar.
+
+NOTA: Por seguridad, Chrome, Edge y los navegadores moviles normalmente no permiten musica CON sonido antes de tocar la pantalla. Pulsar "ABRIR INVITACION" permite iniciar la cancion.
+
+CODIGO EDITABLE:
+La carpeta Codigo_editable contiene index.html, estilos.css, script.js, config.js y assets/ con el MP3 original. Para usar esa version, primero EXTRAE LA CARPETA COMPLETA para que el MP3 este junto a index.html.
+
+DATOS:
+Adriel cumple 3 anos - domingo 18 de octubre de 2026, 3:00 p. m.
+Mapa: https://maps.app.goo.gl/AHo4dZ6EC1FkhWir9?g_st=aw
+
+Si no deseas extraer nada, utiliza el index.html de la raiz del ZIP o el archivo HTML individual suministrado.

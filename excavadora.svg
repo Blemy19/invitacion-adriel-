@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 350" role="img" aria-label="Excavadora amarilla de juguete">
+<defs><linearGradient id="yellow" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffec50"/><stop offset="1" stop-color="#ff9a18"/></linearGradient></defs>
+<ellipse cx="263" cy="313" rx="223" ry="17" fill="#146099" opacity=".15"/>
+<!-- arm -->
+<path d="M317 160L390 73L443 97L378 194Z" fill="url(#yellow)" stroke="#ce7610" stroke-width="12" stroke-linejoin="round"/>
+<path d="M423 84L488 124L462 180L434 165L444 142L399 117Z" fill="#ffb825" stroke="#cf7b13" stroke-width="11" stroke-linejoin="round"/>
+<path d="M463 159L515 170L507 216Q475 236 444 211L430 183Z" fill="#393f55" stroke="#26334d" stroke-width="10" stroke-linejoin="round"/>
+<circle cx="394" cy="89" r="15" fill="#f9f4dc" stroke="#dc8916" stroke-width="7"/><circle cx="446" cy="137" r="14" fill="#f9f4dc" stroke="#dc8916" stroke-width="7"/>
+<path d="M314 175L366 118" stroke="#9ccbd6" stroke-width="12" stroke-linecap="round"/>
+<!-- tracks -->
+<path d="M122 249H357Q390 249 391 283Q391 320 352 320H118Q81 318 81 287Q81 252 122 249Z" fill="#343c53" stroke="#27324a" stroke-width="10"/>
+<rect x="112" y="266" width="249" height="40" rx="20" fill="#59647b"/>
+<g fill="#272f43" stroke="#9299a4" stroke-width="7"><circle cx="144" cy="286" r="17"/><circle cx="195" cy="286" r="17"/><circle cx="246" cy="286" r="17"/><circle cx="298" cy="286" r="17"/><circle cx="345" cy="286" r="16"/></g>
+<!-- chassis -->
+<path d="M95 222H370Q387 222 381 260L92 260Q77 245 95 222Z" fill="#f89a17" stroke="#c67916" stroke-width="9"/>
+<path d="M166 105H261Q276 106 287 126L312 222H134L139 140Q143 106 166 105Z" fill="url(#yellow)" stroke="#cc7d16" stroke-width="10"/>
+<path d="M168 124H253L278 212H154L158 146Q159 127 168 124Z" fill="#67cefa" stroke="#f7f8d8" stroke-width="6"/>
+<path d="M211 125L212 214" stroke="#f1ab1f" stroke-width="10"/>
+<path d="M274 173H364Q376 175 379 198L381 222H293Z" fill="#ffc52d" stroke="#c67c15" stroke-width="9"/>
+<rect x="311" y="186" width="35" height="13" rx="5" fill="#fbeac4"/>
+</svg>

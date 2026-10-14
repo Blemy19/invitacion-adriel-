@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 670" role="img" aria-labelledby="title desc">
+<title id="title">Animador de fiesta sonriente con lentes naranjas</title>
+<desc id="desc">Personaje original de caricatura con gorra azul y naranja, camisa azul y tirantes naranjas, saludando.</desc>
+<defs>
+<linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#61d6ff"/><stop offset="1" stop-color="#0876dc"/></linearGradient>
+<linearGradient id="cap" x1="0" x2="1"><stop stop-color="#ffac23"/><stop offset="1" stop-color="#ff6417"/></linearGradient>
+<linearGradient id="face" x1=".1" x2=".8" y1="0" y2="1"><stop stop-color="#ffe0aa"/><stop offset="1" stop-color="#fbb270"/></linearGradient>
+<linearGradient id="pants" x1="0" x2="1"><stop stop-color="#536f91"/><stop offset="1" stop-color="#2e486c"/></linearGradient>
+<filter id="shadow" x="-.4" y="-.4" width="1.8" height="1.8"><feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#07599f" flood-opacity=".22"/></filter>
+</defs>
+<ellipse cx="279" cy="639" rx="163" ry="17" fill="#055f9a" opacity=".18"/>
+<!-- hand waving on viewer's left -->
+<g filter="url(#shadow)">
+<path d="M181 420Q116 426 84 346Q73 322 83 306Q96 287 111 310L145 356L135 242Q136 225 149 227Q164 230 166 246L179 322L185 214Q187 198 201 201Q215 204 216 218L214 313L232 236Q237 221 251 226Q266 234 260 250L239 348L267 307Q279 295 289 305Q298 317 287 334L245 422Q225 449 181 420Z" fill="url(#face)" stroke="#e79a67" stroke-width="5" stroke-linejoin="round"/>
+<path d="M167 386L126 382Q109 383 108 404Q115 434 166 453L193 445Z" fill="#128bdf" stroke="#0b6db8" stroke-width="5"/>
+<!-- legs -->
+<path d="M209 527L204 609Q220 632 253 619L276 545Z" fill="url(#pants)" stroke="#34435f" stroke-width="5"/>
+<path d="M283 529L304 619Q337 634 350 608L329 511Z" fill="url(#pants)" stroke="#34435f" stroke-width="5"/>
+<path d="M204 603Q188 622 188 635Q194 650 240 646L264 639L256 611Z" fill="#19395d"/>
+<path d="M306 612L300 638Q319 652 363 646Q381 639 370 622L349 604Z" fill="#19395d"/>
+<!-- body -->
+<path d="M193 375Q221 351 254 350L325 354Q368 366 379 423L370 540Q279 571 190 536L178 437Q179 401 193 375Z" fill="url(#shirt)" stroke="#0b79be" stroke-width="6"/>
+<!-- other arm -->
+<path d="M351 391Q395 397 411 437L425 485Q417 509 393 509Q378 505 376 482L354 447Z" fill="#0f84d1" stroke="#0b70b5" stroke-width="6"/>
+<ellipse cx="417" cy="507" rx="28" ry="33" fill="url(#face)" stroke="#e89e67" stroke-width="5"/>
+<!-- orange suspenders -->
+<path d="M215 371L231 541" stroke="#ed5a12" stroke-width="27" stroke-linecap="round"/>
+<path d="M217 369L232 540" stroke="#ffad2b" stroke-width="17" stroke-linecap="round"/>
+<path d="M330 366L337 543" stroke="#ed5a12" stroke-width="27" stroke-linecap="round"/>
+<path d="M331 368L337 539" stroke="#ffad2b" stroke-width="17" stroke-linecap="round"/>
+<!-- buttons -->
+<g fill="white"><circle cx="278" cy="439" r="6"/><circle cx="282" cy="475" r="6"/><circle cx="285" cy="509" r="6"/></g>
+<!-- neck -->
+<path d="M250 338L251 377Q280 399 308 376L306 333Z" fill="#f8b87f" stroke="#df9260" stroke-width="5"/>
+<!-- head ears -->
+<ellipse cx="197" cy="259" rx="24" ry="35" fill="#f9bb83" stroke="#e89b69" stroke-width="5"/>
+<ellipse cx="344" cy="260" rx="24" ry="35" fill="#f9bb83" stroke="#e89b69" stroke-width="5"/>
+<path d="M203 211Q195 163 235 142Q275 123 323 159Q352 187 347 256Q346 332 292 357Q259 369 231 340Q196 316 203 211Z" fill="url(#face)" stroke="#e49a66" stroke-width="6"/>
+<!-- cap brim hair -->
+<path d="M206 195Q212 133 268 130Q320 133 343 192L346 222Q290 201 220 223Z" fill="#265dc3"/>
+<path d="M219 195Q233 135 282 131Q328 142 339 197Q285 188 219 205Z" fill="url(#cap)"/>
+<path d="M197 213Q273 181 353 201Q361 211 347 221Q264 205 204 231Q186 231 197 213Z" fill="#1587eb" stroke="#0a6abc" stroke-width="5"/>
+<path d="M227 228Q223 216 236 216M306 216Q320 213 323 224" stroke="#693d32" stroke-width="6" fill="none" stroke-linecap="round"/>
+<!-- eyes -->
+<ellipse cx="246" cy="259" rx="17" ry="21" fill="white"/>
+<ellipse cx="310" cy="255" rx="17" ry="21" fill="white"/>
+<circle cx="249" cy="263" r="9" fill="#4d321d"/><circle cx="310" cy="258" r="9" fill="#4d321d"/>
+<circle cx="251" cy="259" r="3.5" fill="white"/><circle cx="312" cy="255" r="3.5" fill="white"/>
+<!-- glasses orange -->
+<rect x="217" y="231" rx="16" ry="16" width="56" height="53" fill="none" stroke="#ff7118" stroke-width="12"/>
+<rect x="283" y="228" rx="16" ry="16" width="57" height="54" fill="none" stroke="#ff7118" stroke-width="12"/>
+<path d="M272 242Q280 234 289 242M215 247L199 237M341 244L353 236" stroke="#ff7118" stroke-width="10" stroke-linecap="round" fill="none"/>
+<!-- nose and smile -->
+<path d="M277 271Q268 290 279 292" stroke="#da8963" stroke-width="4" stroke-linecap="round" fill="none"/>
+<path d="M246 301Q276 334 313 296Q307 339 280 340Q255 340 246 301Z" fill="#742d2d"/>
+<path d="M255 308Q280 317 305 306Q294 326 277 326Q260 324 255 308Z" fill="#fff5e5"/>
+<path d="M268 335Q281 326 295 336" stroke="#e9797a" stroke-width="5" fill="none" stroke-linecap="round"/>
+<circle cx="220" cy="293" r="8" fill="#ef8b67" opacity=".34"/><circle cx="331" cy="287" r="8" fill="#ef8b67" opacity=".34"/>
+<!-- bow tie -->
+<path d="M279 385L245 370Q237 368 237 381L242 413Q245 421 255 416L282 401Z" fill="#ff8a12" stroke="#dc5a11" stroke-width="5"/>
+<path d="M282 385L316 373Q325 368 327 380L324 413Q321 422 311 416L279 401Z" fill="#ff8a12" stroke="#dc5a11" stroke-width="5"/>
+<circle cx="282" cy="393" r="12" fill="#ffb32c" stroke="#dc5a11" stroke-width="4"/>
+</g>
+<path d="M408 190l11-21 11 21 22 11-22 10-11 23-11-23-22-10Z" fill="#ffd92e"/>
+<path d="M100 165l7-13 7 13 13 7-13 7-7 13-7-13-13-7Z" fill="#fff" opacity=".9"/>
+<circle cx="430" cy="310" r="10" fill="#ff8b17"/><circle cx="135" cy="513" r="7" fill="#fddd3c"/>
+</svg>
